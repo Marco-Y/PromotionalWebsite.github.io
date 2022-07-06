@@ -43,7 +43,8 @@ I have gained a huge interest in computing and technology since I was in element
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
 <a href="https://youtu.be/bTtv9ADzdxE"
-   target="_blank">
+   target="_blank">Click the image
+   
    <img src="https://thegatewayonline.ca/wp-content/uploads/2016/05/Arts-Supplied-CREDIT-TO-Matteo-J.K.-Mihn-Dimsum.jpg"
      alt="Dim Sum"
      width="400"
