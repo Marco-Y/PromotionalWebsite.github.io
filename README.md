@@ -45,10 +45,10 @@ I have gained a huge interest in computing and technology since I was in element
 <a href="https://youtu.be/bTtv9ADzdxE"
    target="_blank">Click the image
    
-   <img src="https://thegatewayonline.ca/wp-content/uploads/2016/05/Arts-Supplied-CREDIT-TO-Matteo-J.K.-Mihn-Dimsum.jpg"
+   <img src="http://img.youtube.com/vi/bTtv9ADzdxE/0.jpg"
      alt="Dim Sum"
-     width="400"
-     height="225"/>
+     width="512"
+     height="288"/>
 </a>
 
 - <s>[] Cultural Celebrations</s>
