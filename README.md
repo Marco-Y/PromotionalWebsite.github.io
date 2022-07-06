@@ -5,11 +5,11 @@ Date Started: Jul 5, 2022 Date last modified: Jul 5, 2022
 
 ---
 
-*How do I fit into a UNESCO School?*
+<b>*How do I fit into a UNESCO School?*<b>
 
 - [] Nationality: Canadian
 - [] Ethnicity: Asian
-- [] Country (i.e. image, map image)<img src="canadaflag.png" alt="Canada" width="1028" height="514">
+- [] Country (i.e. image, map image)<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/800px-Flag_of_Canada.svg.png?20190318175205" alt="Canada" width="1028" height="514">
 - [] Flag (i.e. image)
 - [] Language (i.e. text name, auditory file of speaking something with English translation, YouTube Video with Closed Captions and Translation turned on)
 - [] speak English in classroom, what about other places like home
