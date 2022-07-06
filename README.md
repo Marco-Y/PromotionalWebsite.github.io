@@ -24,7 +24,7 @@ I have gained a huge interest in computing and technology since I was in element
 - [x] Country (i.e. image, map image)
  <img src="https://cdn.britannica.com/10/183610-050-07053EDD/World-Data-Locator-Map-Canada.jpg" width="300" height="286">
 <a href="https://cdn.britannica.com/10/183610-050-07053EDD/World-Data-Locator-Map-Canada.jpg"
-   target="_blank">
+   target="_blank"></a>
 
 - [x] Flag (i.e. image)
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/800px-Flag_of_Canada.svg.png?20190318175205" width="257" height="128">
