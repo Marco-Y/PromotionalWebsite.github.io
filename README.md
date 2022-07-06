@@ -12,7 +12,7 @@ Hello, my name is Marco Yeung and I am curently 14. I was born in <a href="https
 
 <b>Career Plans</b>
 
-I have gained a huge interest in computing and technology since I was in elementary school and I hope to get a job related to coding and programming in the future because it seems to be the thing that I'm the most obsessed with.
+I have gained a huge interest in computing and technology since I was in elementary school and I hope to get a job related to coding and programming in the future because it seems to be the thing that I'm the most obsessed with. “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 <img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg" width="256" height="171">
 
 ---
@@ -46,8 +46,14 @@ I have gained a huge interest in computing and technology since I was in element
 
 <b>*Life at School*</b>
 
-- [x] How are you involved at QE in clubs, teams, or groups?
-[1.]For example, “hanging out with friends” is still a student group
-[] How are you academic?
-[] Subjects you have high grades in; subjects you enjoy "putting in extra effort"
-[] Subjects you find it 'natural' to remember "everything" recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas
+- How am I involved at QE in clubs, teams, or groups?
+[x] Student Group: Hanging out with friends
+[x] Student Group: Social media chat groups
+
+- How am I academic?
+[x] Subjects I have high grades in: Math, Social Studies
+[x] Subjects I enjoy "putting in extra effort": Computer Science, ELA
+[x] Subjects I find it 'natural' to remember "everything", recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas: Math
+
+<blockquote cite="https://dzone.com/articles/best-programming-jokes-amp-quotes">
+<!--  Date Accessed: 20220705 -->
