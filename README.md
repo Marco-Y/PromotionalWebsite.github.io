@@ -46,14 +46,19 @@ I have gained a huge interest in computing and technology since I was in element
 
 <b>*Life at School*</b>
 
-- How am I involved at QE in clubs, teams, or groups?
-[x] Student Group: Hanging out with friends
-[x] Student Group: Social media chat groups
+_How am I involved at QE in clubs, teams, or groups?_
+- [x] Student Group: Hanging out with friends
+- [x] Student Group: Social media chat groups
 
-- How am I academic?
-[x] Subjects I have high grades in: Math, Social Studies
-[x] Subjects I enjoy "putting in extra effort": Computer Science, ELA
-[x] Subjects I find it 'natural' to remember "everything", recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas: Math
+_How am I academic?_
+- [x] Subjects I have high grades in: Math, Social Studies
+- [x] Subjects I enjoy "putting in extra effort": Computer Science, ELA
+- [x] Subjects I find it 'natural' to remember "everything", recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas: Math
 
 <blockquote cite="https://dzone.com/articles/best-programming-jokes-amp-quotes">
 <!--  Date Accessed: 20220705 -->
+
+<p><strong>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</strong>
+  <em><a href="https://www.brainyquote.com/quotes/mitchell_kapor_163583" target="_blank">- Martin Fowler</a>
+  </em>
+</p>
