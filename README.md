@@ -44,6 +44,10 @@ I have gained a huge interest in computing and technology since I was in element
 
 ---
 
-<b>*Personal*</b>
+<b>*Life at School*</b>
 
-- 
+- [x] How are you involved at QE in clubs, teams, or groups?
+[1.]For example, “hanging out with friends” is still a student group
+[] How are you academic?
+[] Subjects you have high grades in; subjects you enjoy "putting in extra effort"
+[] Subjects you find it 'natural' to remember "everything" recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas
