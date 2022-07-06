@@ -1,5 +1,5 @@
 # PromotionalWebsite.github.io
-Promoting Myself
+Self promoting
 
 Date Started: Jul 5, 2022 ; Date last modified: Jul 5, 2022
 
@@ -43,7 +43,12 @@ I have gained a huge interest in computing and technology since I was in element
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
 <a href="https://youtu.be/bTtv9ADzdxE"
-   target="_blank">Dim Sum</a>
+   target="_blank">
+   <img src="https://thegatewayonline.ca/wp-content/uploads/2016/05/Arts-Supplied-CREDIT-TO-Matteo-J.K.-Mihn-Dimsum.jpg"
+     alt="Dim Sum"
+     width="400"
+     height="225"/>
+</a>
 
 - <s>[] Cultural Celebrations</s>
 
@@ -62,8 +67,3 @@ _How am I academic?_
 
 <blockquote cite="https://dzone.com/articles/best-programming-jokes-amp-quotes">
 <!--  Date Accessed: 20220705 -->
-
-<p><strong>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</strong>
-  <em><a href="https://dzone.com/articles/best-programming-jokes-amp-quotes" target="_blank">- Martin Fowler</a>
-  </em>
-</p>
