@@ -6,12 +6,14 @@ Date Started: Jul 5, 2022 ; Date last modified: Jul 5, 2022
 ---
 
 <b>Self Introduction</b>
-Hello, my name is Marco Yeung and I am curently 14. I was born in <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png">Hong Kong</a> but I live in Edmonton, my parents are Chinese so I could speak both Chinese and English. I like playing badminton and football as well as listening to music. 
-<img src= "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/164382750/original/590864ae96f6bbbfd967dbb8c41d86bfb1cd8117/accurately-translate-english-cantonese-and-chinese-mandarin.jpg" width="180" height="225">
+
+Hello, my name is Marco Yeung and I am curently 14. I was born in <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png">Hong Kong</a> but I live in Edmonton, my parents are Chinese so I could speak both <a href="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/164382750/original/590864ae96f6bbbfd967dbb8c41d86bfb1cd8117/accurately-translate-english-cantonese-and-chinese-mandarin.jpg">Chinese and English</a>. I like playing badminton and football as well as listening to music. 
+
 
 <b>Career Plans</b>
+
 I have gained a huge interest in computing and technology since I was in elementary school and I hope to get a job related to coding and programming in the future because it seems to be the thing that I'm the most obsessed with.
-<img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg" width="256" height="171>
+<img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg" width="256" height="171">
 
 ---
 
@@ -34,7 +36,15 @@ I have gained a huge interest in computing and technology since I was in element
 - <s>[] Nick names (aka) that friends and family give you: </s>
 - <s>[] Culture & Customs Examples </s>
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
-- <s>[] Cultural Food (i.e. images and videos)</s>
+- [x] Cultural Food (i.e. images and videos)
+<a href="https://youtu.be/bTtv9ADzdxE"
+   target="_blank">
+<img src="https://youtu.be/bTtv9ADzdxE"
+     alt="Random Chinese food"
+     width="240"
+     height="180"/>
+</a>
+
 - <s>[] Cultural Celebrations</s>
 
 ---
