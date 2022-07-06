@@ -12,8 +12,13 @@ Hello, my name is Marco Yeung and I am curently 14. I was born in <a href="https
 
 <b>Career Plans</b>
 
-I have gained a huge interest in computing and technology since I was in elementary school and I hope to get a job related to coding and programming in the future because it seems to be the thing that I'm the most obsessed with. “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+I have gained a huge interest in computing and technology since I was in elementary school and I hope to get a job related to coding and programming in the future because it seems to be the thing that I'm the most obsessed with.
+
 <img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg" width="256" height="171">
+<p><strong>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</strong>
+  <em><a href="https://dzone.com/articles/best-programming-jokes-amp-quotes" target="_blank">- Martin Fowler</a>
+  </em>
+</p>
 
 ---
 
@@ -59,6 +64,6 @@ _How am I academic?_
 <!--  Date Accessed: 20220705 -->
 
 <p><strong>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</strong>
-  <em><a href="https://www.brainyquote.com/quotes/mitchell_kapor_163583" target="_blank">- Martin Fowler</a>
+  <em><a href="https://dzone.com/articles/best-programming-jokes-amp-quotes" target="_blank">- Martin Fowler</a>
   </em>
 </p>
