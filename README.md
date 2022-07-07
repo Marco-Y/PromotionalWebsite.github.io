@@ -41,7 +41,7 @@ I have gained a huge interest in computing and technology since I was in element
 - [x] Full Name (written in English and in other language): Marco Yeung
 - []<del>Nick names (aka) that friends and family give you:</del>
 
-☐ <del> Culture & Customs Examples</del>
+- []<del> Culture & Customs Examples</del>
 
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
