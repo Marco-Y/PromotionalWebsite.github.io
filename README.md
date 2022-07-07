@@ -4,7 +4,7 @@ Promoting an online computer game
 Date Started: Jul 5, 2022 ; Date last modified: Jul 6, 2022
 
 ---
-<b>Author: <a href="https://lh3.googleusercontent.com/a/AItbvmkP5nXrJXZXkDx-DkCAiXFCj3cTFFj4e6X7FFUK=s96-c-br100-rg-mo"></a>Marco Yeung</b>
+<b>Author: <a href="https://lh3.googleusercontent.com/a/AItbvmkP5nXrJXZXkDx-DkCAiXFCj3cTFFj4e6X7FFUK=s96-c-br100-rg-mo">Marco Yeung</a></b>
 
 <b>Self Introduction</b>
 
