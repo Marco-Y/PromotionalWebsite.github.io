@@ -1,14 +1,14 @@
 # PromotionalWebsite.github.io
-Self promoting
+Promoting an online computer game
 
-Date Started: Jul 5, 2022 ; Date last modified: Jul 5, 2022
+Date Started: Jul 5, 2022 ; Date last modified: Jul 6, 2022
 
 ---
+<b>Author: <a href="https://lh3.googleusercontent.com/a/AItbvmkP5nXrJXZXkDx-DkCAiXFCj3cTFFj4e6X7FFUK=s96-c-br100-rg-mo"></a>Marco Yeung<b>
 
 <b>Self Introduction</b>
 
-Hello, my name is Marco Yeung and I am curently 14. I was born in <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png">Hong Kong</a> but I live in Edmonton, my parents are Chinese so I could speak both <a href="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/164382750/original/590864ae96f6bbbfd967dbb8c41d86bfb1cd8117/accurately-translate-english-cantonese-and-chinese-mandarin.jpg">Chinese and English</a>. I like playing badminton and football as well as listening to music. 
-
+Hello, my name is Marco Yeung and I am curently 14. I was born in <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png">Hong Kong</a> and I live in Edmonton, my parents are Chinese so I could speak both <a href="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/164382750/original/590864ae96f6bbbfd967dbb8c41d86bfb1cd8117/accurately-translate-english-cantonese-and-chinese-mandarin.jpg">Chinese and English</a>. I like playing badminton and football as well as listening to music. 
 
 <b>Career Plans</b>
 
@@ -61,11 +61,11 @@ I have gained a huge interest in computing and technology since I was in element
 
 <b>*Life at School*</b>
 
-_How am I involved at QE in clubs, teams, or groups?_
+<p>_How am I involved at QE in clubs, teams, or groups?_</p>
 - [x] Student Group: Hanging out with friends
 - [x] Student Group: Social media chat groups
 
-_How am I academic?_
+<p>_How am I academic?_</p>
 - [x] Subjects I have high grades in: Math, Social Studies
 - [x] Subjects I enjoy "putting in extra effort": Computer Science, ELA
 - [x] Subjects I find it 'natural' to remember "everything", recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas: Math
