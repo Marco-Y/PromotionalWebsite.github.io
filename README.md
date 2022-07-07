@@ -35,15 +35,18 @@ I have gained a huge interest in computing and technology since I was in element
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/800px-Flag_of_Canada.svg.png?20190318175205" width="257" height="128">
 
 - [x] Language: Chinese, English
-- <s>[] speak English in classroom, what about other places like home </s>
+<input type="checkbox"> <del>speak English in classroom, what about other places like home </del>
+
 - [x] Birth place: Hong Kong
 - [x] Full Name (written in English and in other language): Marco Yeung
-- <s>[] Nick names (aka) that friends and family give you: </s>
-- <s>[] Culture & Customs Examples </s>
+<input type="checkbox"> <del>Nick names (aka) that friends and family give you:</del>
+
+<input type="checkbox"> <del>[] Culture & Customs Examples </del>
+
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
 <a href="https://youtu.be/bTtv9ADzdxE"
-   target="_blank">Click the image
+   target="_blank">Chinese Food
    
    <img src="http://img.youtube.com/vi/bTtv9ADzdxE/0.jpg"
      alt="Dim Sum"
@@ -51,7 +54,7 @@ I have gained a huge interest in computing and technology since I was in element
      height="288"/>
 </a>
 
-- <s>[] Cultural Celebrations</s>
+<input type="checkbox"> <del>Cultural Celebrations</del>
 
 ---
 
