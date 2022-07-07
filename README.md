@@ -8,7 +8,7 @@ Date Started: Jul 5, 2022 ; Date last modified: Jul 6, 2022
 
 <b>Self Introduction</b>
 
-Hello, my name is Marco Yeung and I am curently 14. I was born in <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png">Hong Kong</a> and I live in Edmonton, my parents are Chinese so I could speak both <a href="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/164382750/original/590864ae96f6bbbfd967dbb8c41d86bfb1cd8117/accurately-translate-english-cantonese-and-chinese-mandarin.jpg">Chinese and English</a>. I like playing badminton and football as well as listening to music. 
+Hello, my name is Marco Yeung and I am currently 14. I was born in <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/1200px-Flag_of_Hong_Kong.svg.png">Hong Kong</a> and I live in Edmonton, my parents are Chinese so I could speak both <a href="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/164382750/original/590864ae96f6bbbfd967dbb8c41d86bfb1cd8117/accurately-translate-english-cantonese-and-chinese-mandarin.jpg">Chinese and English</a>. I like playing badminton and football as well as listening to music. 
 
 <b>Career Plans</b>
 
@@ -39,10 +39,9 @@ I have gained a huge interest in computing and technology since I was in element
 
 - [x] Birth place: Hong Kong
 - [x] Full Name (written in English and in other language): Marco Yeung
-<input type="checkbox"> <del>Nick names (aka) that friends and family give you:</del>
+- []<del>Nick names (aka) that friends and family give you:</del>
 
-<input type="checkbox" id disabled class="task-list-item-checkbox"> 
-<del> Culture & Customs Examples</del>
+☐ <del> Culture & Customs Examples</del>
 
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
@@ -55,17 +54,17 @@ I have gained a huge interest in computing and technology since I was in element
      height="288"/>
 </a>
 
-<input type="checkbox"> <del>Cultural Celebrations</del>
+- []<del>Cultural Celebrations</del>
 
 ---
 
 <b>*Life at School*</b>
 
-<p>_How am I involved at QE in clubs, teams, or groups?_</p>
+_How am I involved at QE in clubs, teams, or groups?_
 - [x] Student Group: Hanging out with friends
 - [x] Student Group: Social media chat groups
 
-<p>_How am I academic?_</p>
+_How am I academic?_
 - [x] Subjects I have high grades in: Math, Social Studies
 - [x] Subjects I enjoy "putting in extra effort": Computer Science, ELA
 - [x] Subjects I find it 'natural' to remember "everything", recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas: Math
