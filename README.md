@@ -1,5 +1,5 @@
 # PromotionalWebsite.github.io
-Promoting an online computer game
+Promoting Clash of Clans
 
 Date Started: Jul 5, 2022 ; Date last modified: Jul 6, 2022
 
