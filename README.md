@@ -29,38 +29,33 @@ I have gained a huge interest in computing and technology since I was in element
 - [x] Nationality: Canadian
 - [x] Ethnicity: Asian
 - [x] Country (i.e. image, map image)
- <blockquote cite="https://www.britannica.com/place/Canada">
- <!-- Date Accessed: 20220706 -->
- <img src="https://cdn.britannica.com/10/183610-050-07053EDD/World-Data-Locator-Map-Canada.jpg" width="300" height="286">
+<blockquote cite="https://www.britannica.com/place/Canada">
+<!-- Date Accessed: 20220706 -->
+<img src="https://cdn.britannica.com/10/183610-050-07053EDD/World-Data-Locator-Map-Canada.jpg" width="300" height="286">
 
 - [x] Flag (i.e. image)
- <blockquote cite="https://en.wikipedia.org/wiki/File:Flag_of_Canada_(Pantone).svg">
- <!-- Date Accessed: 20220706 -->
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/800px-Flag_of_Canada.svg.png?20190318175205" width="257" height="128">
+<blockquote cite="https://en.wikipedia.org/wiki/File:Flag_of_Canada_(Pantone).svg">
+<!-- Date Accessed: 20220706 -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/800px-Flag_of_Canada.svg.png?20190318175205" width="257" height="128">
 
 - [x] Language: Chinese, English
-<input type="checkbox"> <del>speak English in classroom, what about other places like home </del>
-
+- <del>&#9744 speak English in classroom, what about other places like home </del>
 - [x] Birth place: Hong Kong
 - [x] Full Name (written in English and in other language): Marco Yeung
-- []<del>Nick names (aka) that friends and family give you:</del>
-
-- []<del> Culture & Customs Examples</del>
-
+- <del>&#9744 Nick names (aka) that friends and family give you:</del>
+- <del>&#9744 Culture & Customs Examples</del>
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
 <blockquote cite="http://img.youtube.com/vi/bTtv9ADzdxE/0.jpg">
 <!-- Date Accessed: 20220706 -->
 <a href="https://youtu.be/bTtv9ADzdxE"
-   target="_blank">Chinese Food
-   
-   <img src="http://img.youtube.com/vi/bTtv9ADzdxE/0.jpg"
-     alt="Dim Sum"
-     width="512"
-     height="288"/>
-</a>
+target="_blank">Chinese Food 
+<img src="http://img.youtube.com/vi/bTtv9ADzdxE/0.jpg"
+alt="Dim Sum"
+width="512"
+height="288"/></a>
 
-- []<del>Cultural Celebrations</del>
+- <del>&#9744 Cultural Celebrations</del>
 
 ---
 
