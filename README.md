@@ -49,10 +49,8 @@ I have gained a huge interest in computing and technology since I was in element
 
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
-
 <blockquote cite="http://img.youtube.com/vi/bTtv9ADzdxE/0.jpg">
 <!-- Date Accessed: 20220706 -->
-
 <a href="https://youtu.be/bTtv9ADzdxE"
    target="_blank">Chinese Food
    
