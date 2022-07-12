@@ -14,6 +14,8 @@ Hello, my name is Marco Yeung and I am currently 14. I was born in <a href="http
 
 I have gained a huge interest in computing and technology since I was in elementary school and I hope to get a job related to coding and programming in the future because it seems to be the thing that I'm the most obsessed with.
 
+<blockquote cite="https://dzone.com/articles/best-programming-jokes-amp-quotes">
+<!--  Date Accessed: 20220705 -->
 <img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg" width="256" height="171">
 <p><strong>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</strong>
   <em><a href="https://dzone.com/articles/best-programming-jokes-amp-quotes" target="_blank">- Martin Fowler</a>
@@ -27,11 +29,13 @@ I have gained a huge interest in computing and technology since I was in element
 - [x] Nationality: Canadian
 - [x] Ethnicity: Asian
 - [x] Country (i.e. image, map image)
+ <blockquote cite="https://www.britannica.com/place/Canada">
+ <!-- Date Accessed: 20220706 -->
  <img src="https://cdn.britannica.com/10/183610-050-07053EDD/World-Data-Locator-Map-Canada.jpg" width="300" height="286">
-<a href="https://cdn.britannica.com/10/183610-050-07053EDD/World-Data-Locator-Map-Canada.jpg"
-   target="_blank"></a>
 
 - [x] Flag (i.e. image)
+ <blockquote cite="https://en.wikipedia.org/wiki/File:Flag_of_Canada_(Pantone).svg">
+ <!-- Date Accessed: 20220706 -->
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/800px-Flag_of_Canada.svg.png?20190318175205" width="257" height="128">
 
 - [x] Language: Chinese, English
@@ -45,6 +49,10 @@ I have gained a huge interest in computing and technology since I was in element
 
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
+
+<blockquote cite="http://img.youtube.com/vi/bTtv9ADzdxE/0.jpg">
+<!-- Date Accessed: 20220706 -->
+
 <a href="https://youtu.be/bTtv9ADzdxE"
    target="_blank">Chinese Food
    
@@ -68,6 +76,3 @@ _How am I academic?_
 - [x] Subjects I have high grades in: Math, Social Studies
 - [x] Subjects I enjoy "putting in extra effort": Computer Science, ELA
 - [x] Subjects I find it 'natural' to remember "everything", recognize patterns others cannot see yet, or are able to use developed communication skills to share ideas: Math
-
-<blockquote cite="https://dzone.com/articles/best-programming-jokes-amp-quotes">
-<!--  Date Accessed: 20220705 -->
