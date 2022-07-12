@@ -39,11 +39,11 @@ I have gained a huge interest in computing and technology since I was in element
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/800px-Flag_of_Canada.svg.png?20190318175205" width="257" height="128">
 
 - [x] Language: Chinese, English
-- <del>&#9744 speak English in classroom, what about other places like home </del>
+- <del>speak English in classroom, what about other places like home </del>
 - [x] Birth place: Hong Kong
 - [x] Full Name (written in English and in other language): Marco Yeung
-- <del>&#9744 Nick names (aka) that friends and family give you:</del>
-- <del>&#9744 Culture & Customs Examples</del>
+- <del>Nick names (aka) that friends and family give you:</del>
+- <del>Culture & Customs Examples</del>
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
 <blockquote cite="http://img.youtube.com/vi/bTtv9ADzdxE/0.jpg">
@@ -55,7 +55,7 @@ alt="Dim Sum"
 width="512"
 height="288"/></a>
 
-- <del>&#9744 Cultural Celebrations</del>
+- <del>Cultural Celebrations</del>
 
 ---
 
