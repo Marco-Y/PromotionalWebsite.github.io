@@ -33,10 +33,10 @@ I have gained a huge interest in computing and technology since I was in element
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/800px-Flag_of_Canada.svg.png?20190318175205" width="257" height="128">
 
 - [x] Language: Chinese, English
-- <del>speak English in classroom, what about other places like home </del>
+- [x] Speak English in classroom, Cantonese at home
 - [x] Birth place: Hong Kong
 - [x] Full Name (written in English and in other language): Marco Yeung
-- <del>Nick names (aka) that friends and family give you:</del>
+- [x]Nick names (aka) that friends and family give you: MFG
 - <del>Culture & Customs Examples</del>
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
