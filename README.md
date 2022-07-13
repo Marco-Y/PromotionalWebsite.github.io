@@ -36,7 +36,7 @@ I have gained a huge interest in computing and technology since I was in element
 - [x] Speak English in classroom, Cantonese at home
 - [x] Birth place: Hong Kong
 - [x] Full Name (written in English and in other language): Marco Yeung
-- [x]Nick names (aka) that friends and family give you: MFG
+- [x] Nick names (aka) that friends and family give you: MFG
 - <del>Culture & Customs Examples</del>
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
