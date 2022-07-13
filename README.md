@@ -14,8 +14,6 @@ Hello, my name is Marco Yeung and I am currently 14. I was born in <a href="http
 
 I have gained a huge interest in computing and technology since I was in elementary school and I hope to get a job related to coding and programming in the future because it seems to be the thing that I'm the most obsessed with.
 
-<blockquote cite="https://dzone.com/articles/best-programming-jokes-amp-quotes">
-<!--  Date Accessed: 20220705 -->
 <img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg" width="256" height="171">
 <p><strong>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</strong>
   <em><a href="https://dzone.com/articles/best-programming-jokes-amp-quotes" target="_blank">- Martin Fowler</a>
@@ -29,11 +27,9 @@ I have gained a huge interest in computing and technology since I was in element
 - [x] Nationality: Canadian
 - [x] Ethnicity: Asian
 - [x] Country (i.e. image, map image)
-
 <img src="https://cdn.britannica.com/10/183610-050-07053EDD/World-Data-Locator-Map-Canada.jpg" width="300" height="286">
 
 - [x] Flag (i.e. image)
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/800px-Flag_of_Canada.svg.png?20190318175205" width="257" height="128">
 
 - [x] Language: Chinese, English
@@ -44,8 +40,6 @@ I have gained a huge interest in computing and technology since I was in element
 - <del>Culture & Customs Examples</del>
 - [x] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.): Catholic, go to church on Sundays
 - [x] Cultural Food (i.e. images and videos)
-<blockquote cite="http://img.youtube.com/vi/bTtv9ADzdxE/0.jpg">
-<!-- Date Accessed: 20220706 -->
 <a href="https://youtu.be/bTtv9ADzdxE"
 target="_blank">Chinese Food 
 <img src="http://img.youtube.com/vi/bTtv9ADzdxE/0.jpg"
